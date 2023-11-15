@@ -1,0 +1,1 @@
+cmd_/home/abhi/assign3/assign3/template/drivers/Module.symvers :=  sed 's/ko$$/o/'  /home/abhi/assign3/assign3/template/drivers/modules.order | scripts/mod/modpost      -o /home/abhi/assign3/assign3/template/drivers/Module.symvers -e -i Module.symvers -T - 
