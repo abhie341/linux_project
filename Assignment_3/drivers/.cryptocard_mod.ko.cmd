@@ -1,1 +1,0 @@
-cmd_/home/abhi/assign3/assign3/template/drivers/cryptocard_mod.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/abhi/assign3/assign3/template/drivers/cryptocard_mod.ko /home/abhi/assign3/assign3/template/drivers/cryptocard_mod.o /home/abhi/assign3/assign3/template/drivers/cryptocard_mod.mod.o;  true

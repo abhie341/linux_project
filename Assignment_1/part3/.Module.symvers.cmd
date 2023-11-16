@@ -1,1 +1,0 @@
-cmd_/home/abhi/22111401/part3/Module.symvers :=  sed 's/ko$$/o/'  /home/abhi/22111401/part3/modules.order | scripts/mod/modpost      -o /home/abhi/22111401/part3/Module.symvers -e -i Module.symvers -T - 
